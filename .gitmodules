@@ -1,0 +1,6 @@
+[submodule "crazyflie_mrac_ros"]
+	path = crazyflie_mrac_ros
+	url = https://github.com/fjctp/crazyflie_mrac_ros.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/fjctp/crazyflie-firmware.git
